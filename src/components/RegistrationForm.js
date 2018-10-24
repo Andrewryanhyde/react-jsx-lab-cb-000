@@ -1,4 +1,4 @@
-import React from 'react'; 
+import React from 'react';
 
 class RegistrationForm extends React.component {
   render() {
@@ -11,3 +11,5 @@ class RegistrationForm extends React.component {
     )
   }
 }
+
+export default RegistrationForm;
